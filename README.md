@@ -15,5 +15,5 @@ A Python-based application that downloads YouTube videos to a specified folder o
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/barisberisbek/Youtube-Downloader-App.git
    cd your-repo-name
