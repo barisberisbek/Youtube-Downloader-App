@@ -1,6 +1,8 @@
 import os
 from yt_dlp import YoutubeDL
 
+# bu belgee değiştirildi
+
 def progress_hook(d):
     if d['status'] == 'downloading':
         print(f"Downloading: {d['filename']} - {d['_percent_str']} completed, {d['_eta_str']} remaining.")
